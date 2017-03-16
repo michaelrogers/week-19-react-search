@@ -1,0 +1,19 @@
+{
+  "name": "week-19-react-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelrogers/week-19-react-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelrogers/week-19-react-search/issues"
+  },
+  "homepage": "https://github.com/michaelrogers/week-19-react-search#readme"
+}
